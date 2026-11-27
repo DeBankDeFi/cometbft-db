@@ -1,6 +1,6 @@
 module github.com/cometbft/cometbft-db
 
-go 1.19
+go 1.24
 
 require (
 	github.com/dgraph-io/badger/v2 v2.2007.4
@@ -22,7 +22,7 @@ require (
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/golang/snappy v0.0.3 // indirect
-	github.com/klauspost/compress v1.12.3 // indirect
+	github.com/klauspost/compress v1.18.7 // indirect
 	github.com/pkg/errors v0.8.1 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	golang.org/x/net v0.7.0 // indirect
